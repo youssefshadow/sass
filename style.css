@@ -1,0 +1,12 @@
+h1 {
+  background-color: skyblue;
+}
+
+p {
+  color: red;
+  border: solid blue;
+}
+
+img:hover {
+  visibility: hidden;
+}/*# sourceMappingURL=style.css.map */

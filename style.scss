@@ -1,0 +1,11 @@
+@import "./variables.scss";
+h1{
+    background-color: $fond;
+}
+p{
+    color: $color;
+    border: $border;
+}
+img:hover{
+   visibility: $visibility;
+}
